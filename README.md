@@ -52,11 +52,6 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150"/>  
-</p>
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tripathivivek98&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripathivivek98&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=tripathivivek98&theme=radical&hide_border=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=tripathivivek98&color=blue)
